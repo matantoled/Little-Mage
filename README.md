@@ -3,6 +3,12 @@ Matan Toledano
 
 If you have any questions or encounter any issues with this project, feel free to contact me at matantoled@gmail.com. I'll be more than happy to help!
 
+![image](https://github.com/user-attachments/assets/4cd5d844-9021-4667-b1c7-046bf4d7c2e0)
+
+## Gameplay Video
+To see the game in action, check out the gameplay video on YouTube: [Little Mage Gameplay](https://youtu.be/Dp8TcgzrcMk)
+
+
 # Little Mage
 Little Mage is an original game created using the SFML graphics library. 
 In this game, players control the main character, Little Mage, and navigate through three different levels. 
@@ -11,8 +17,7 @@ Players must avoid or defeat various monsters and obstacles along the way.
 The levels are time-limited, and if time runs out, the level will restart. 
 Upon completing the game, players can return to the main menu to play again or exit the game.
 
-## Gameplay Video
-To see the game in action, check out the gameplay video on YouTube: [Little Mage Gameplay](https://youtu.be/Dp8TcgzrcMk)
+
 
 ## Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
